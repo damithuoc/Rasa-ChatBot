@@ -1,0 +1,7 @@
+chatroom-0.9.0/.cache
+chatroom-0.9.0/dist
+models
+chatroom-0.9.0/node_modules
+yarn-error.log
+__pycache__
+.idea
